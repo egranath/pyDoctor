@@ -1,0 +1,30 @@
+# Packages enrich_docs.py imports to fill doc/signature. Optional catalogs
+# are listed so those caches get docs too. Heavy stacks (torch, jax, …)
+# are inventory-only unless already installed.
+numpy
+sympy
+pandas
+matplotlib
+networkx
+pyperclip
+scipy
+requests
+scikit-learn
+numba
+rich
+pydantic
+flask
+Pillow
+seaborn
+pytest
+click
+aiohttp
+Jinja2
+joblib
+tornado
+fastapi
+python-dateutil
+packaging
+attrs
+ipython
+beautifulsoup4

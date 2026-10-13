@@ -1,0 +1,31 @@
+{
+  "name": "docs-browser",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "ingest": "tsx scripts/ingest.ts",
+    "ingest:defaults": "tsx scripts/ingest-defaults.ts",
+    "shard-cache": "tsx scripts/shard-cache.ts",
+    "catalog-top": "tsx scripts/build-catalog-top.ts",
+    "pypi-index": "tsx scripts/build-pypi-index.ts",
+    "syntax": "tsx scripts/build-syntax.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.5",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0"
+  },
+  "dependencies": {
+    "@floating-ui/dom": "^1.8.0",
+    "@vscode/codicons": "^0.0.46-24",
+    "shiki": "^4.4.3"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true,
+    "fsevents@2.3.3": true
+  }
+}

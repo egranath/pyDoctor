@@ -1,0 +1,3301 @@
+{
+  "package": "bs4",
+  "sourceUrl": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/objects.inv",
+  "generatedAt": "2026-09-18T22:37:05.511Z",
+  "entries": [
+    {
+      "path": "bs4",
+      "kind": "package",
+      "dispname": "bs4",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#module-bs4"
+    },
+    {
+      "path": "bs4.AttributeResemblesVariableWarning",
+      "kind": "class",
+      "dispname": "AttributeResemblesVariableWarning",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.AttributeResemblesVariableWarning"
+    },
+    {
+      "path": "bs4.AttributeResemblesVariableWarning.MESSAGE",
+      "kind": "property",
+      "dispname": "MESSAGE",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.AttributeResemblesVariableWarning.MESSAGE"
+    },
+    {
+      "path": "bs4.BeautifulSoup",
+      "kind": "class",
+      "dispname": "BeautifulSoup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup"
+    },
+    {
+      "path": "bs4.BeautifulSoup.ASCII_SPACES",
+      "kind": "property",
+      "dispname": "ASCII_SPACES",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.ASCII_SPACES"
+    },
+    {
+      "path": "bs4.BeautifulSoup.DEFAULT_BUILDER_FEATURES",
+      "kind": "property",
+      "dispname": "DEFAULT_BUILDER_FEATURES",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.DEFAULT_BUILDER_FEATURES"
+    },
+    {
+      "path": "bs4.BeautifulSoup.ROOT_TAG_NAME",
+      "kind": "property",
+      "dispname": "ROOT_TAG_NAME",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.ROOT_TAG_NAME"
+    },
+    {
+      "path": "bs4.BeautifulSoup.contains_replacement_characters",
+      "kind": "property",
+      "dispname": "contains_replacement_characters",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.contains_replacement_characters"
+    },
+    {
+      "path": "bs4.BeautifulSoup.copy_self",
+      "kind": "method",
+      "dispname": "copy_self",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.copy_self"
+    },
+    {
+      "path": "bs4.BeautifulSoup.declared_html_encoding",
+      "kind": "property",
+      "dispname": "declared_html_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.declared_html_encoding"
+    },
+    {
+      "path": "bs4.BeautifulSoup.decode",
+      "kind": "method",
+      "dispname": "decode",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.decode"
+    },
+    {
+      "path": "bs4.BeautifulSoup.insert_after",
+      "kind": "method",
+      "dispname": "insert_after",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.insert_after"
+    },
+    {
+      "path": "bs4.BeautifulSoup.insert_before",
+      "kind": "method",
+      "dispname": "insert_before",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.insert_before"
+    },
+    {
+      "path": "bs4.BeautifulSoup.is_xml",
+      "kind": "property",
+      "dispname": "is_xml",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.is_xml"
+    },
+    {
+      "path": "bs4.BeautifulSoup.new_string",
+      "kind": "method",
+      "dispname": "new_string",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.new_string"
+    },
+    {
+      "path": "bs4.BeautifulSoup.new_tag",
+      "kind": "method",
+      "dispname": "new_tag",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.new_tag"
+    },
+    {
+      "path": "bs4.BeautifulSoup.original_encoding",
+      "kind": "property",
+      "dispname": "original_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.original_encoding"
+    },
+    {
+      "path": "bs4.BeautifulSoup.reset",
+      "kind": "method",
+      "dispname": "reset",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.reset"
+    },
+    {
+      "path": "bs4.BeautifulSoup.string_container",
+      "kind": "method",
+      "dispname": "string_container",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.BeautifulSoup.string_container"
+    },
+    {
+      "path": "bs4.CData",
+      "kind": "class",
+      "dispname": "CData",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.CData"
+    },
+    {
+      "path": "bs4.CData.PREFIX",
+      "kind": "property",
+      "dispname": "PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.CData.PREFIX"
+    },
+    {
+      "path": "bs4.CData.SUFFIX",
+      "kind": "property",
+      "dispname": "SUFFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.CData.SUFFIX"
+    },
+    {
+      "path": "bs4.CSS",
+      "kind": "class",
+      "dispname": "CSS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.CSS"
+    },
+    {
+      "path": "bs4.CSS.closest",
+      "kind": "method",
+      "dispname": "closest",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.CSS.closest"
+    },
+    {
+      "path": "bs4.CSS.compile",
+      "kind": "method",
+      "dispname": "compile",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.CSS.compile"
+    },
+    {
+      "path": "bs4.CSS.escape",
+      "kind": "method",
+      "dispname": "escape",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.CSS.escape"
+    },
+    {
+      "path": "bs4.CSS.filter",
+      "kind": "method",
+      "dispname": "filter",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.CSS.filter"
+    },
+    {
+      "path": "bs4.CSS.iselect",
+      "kind": "method",
+      "dispname": "iselect",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.CSS.iselect"
+    },
+    {
+      "path": "bs4.CSS.match",
+      "kind": "method",
+      "dispname": "match",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.CSS.match"
+    },
+    {
+      "path": "bs4.CSS.select",
+      "kind": "method",
+      "dispname": "select",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.CSS.select"
+    },
+    {
+      "path": "bs4.CSS.select_one",
+      "kind": "method",
+      "dispname": "select_one",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.CSS.select_one"
+    },
+    {
+      "path": "bs4.Comment",
+      "kind": "class",
+      "dispname": "Comment",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Comment"
+    },
+    {
+      "path": "bs4.Comment.PREFIX",
+      "kind": "property",
+      "dispname": "PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Comment.PREFIX"
+    },
+    {
+      "path": "bs4.Comment.SUFFIX",
+      "kind": "property",
+      "dispname": "SUFFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Comment.SUFFIX"
+    },
+    {
+      "path": "bs4.Declaration",
+      "kind": "class",
+      "dispname": "Declaration",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Declaration"
+    },
+    {
+      "path": "bs4.Declaration.PREFIX",
+      "kind": "property",
+      "dispname": "PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Declaration.PREFIX"
+    },
+    {
+      "path": "bs4.Declaration.SUFFIX",
+      "kind": "property",
+      "dispname": "SUFFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Declaration.SUFFIX"
+    },
+    {
+      "path": "bs4.Doctype",
+      "kind": "class",
+      "dispname": "Doctype",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Doctype"
+    },
+    {
+      "path": "bs4.Doctype.PREFIX",
+      "kind": "property",
+      "dispname": "PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Doctype.PREFIX"
+    },
+    {
+      "path": "bs4.Doctype.SUFFIX",
+      "kind": "property",
+      "dispname": "SUFFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Doctype.SUFFIX"
+    },
+    {
+      "path": "bs4.Doctype.for_name_and_ids",
+      "kind": "method",
+      "dispname": "for_name_and_ids",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Doctype.for_name_and_ids"
+    },
+    {
+      "path": "bs4.ElementFilter",
+      "kind": "class",
+      "dispname": "ElementFilter",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ElementFilter"
+    },
+    {
+      "path": "bs4.ElementFilter.allow_string_creation",
+      "kind": "method",
+      "dispname": "allow_string_creation",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ElementFilter.allow_string_creation"
+    },
+    {
+      "path": "bs4.ElementFilter.allow_tag_creation",
+      "kind": "method",
+      "dispname": "allow_tag_creation",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ElementFilter.allow_tag_creation"
+    },
+    {
+      "path": "bs4.ElementFilter.excludes_everything",
+      "kind": "property",
+      "dispname": "excludes_everything",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ElementFilter.excludes_everything"
+    },
+    {
+      "path": "bs4.ElementFilter.filter",
+      "kind": "method",
+      "dispname": "filter",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ElementFilter.filter"
+    },
+    {
+      "path": "bs4.ElementFilter.find",
+      "kind": "method",
+      "dispname": "find",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ElementFilter.find"
+    },
+    {
+      "path": "bs4.ElementFilter.find_all",
+      "kind": "method",
+      "dispname": "find_all",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ElementFilter.find_all"
+    },
+    {
+      "path": "bs4.ElementFilter.includes_everything",
+      "kind": "property",
+      "dispname": "includes_everything",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ElementFilter.includes_everything"
+    },
+    {
+      "path": "bs4.ElementFilter.match",
+      "kind": "method",
+      "dispname": "match",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ElementFilter.match"
+    },
+    {
+      "path": "bs4.ElementFilter.match_function",
+      "kind": "property",
+      "dispname": "match_function",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ElementFilter.match_function"
+    },
+    {
+      "path": "bs4.FeatureNotFound",
+      "kind": "class",
+      "dispname": "FeatureNotFound",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.FeatureNotFound"
+    },
+    {
+      "path": "bs4.GuessedAtParserWarning",
+      "kind": "class",
+      "dispname": "GuessedAtParserWarning",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.GuessedAtParserWarning"
+    },
+    {
+      "path": "bs4.GuessedAtParserWarning.MESSAGE",
+      "kind": "property",
+      "dispname": "MESSAGE",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.GuessedAtParserWarning.MESSAGE"
+    },
+    {
+      "path": "bs4.MarkupResemblesLocatorWarning",
+      "kind": "class",
+      "dispname": "MarkupResemblesLocatorWarning",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.MarkupResemblesLocatorWarning"
+    },
+    {
+      "path": "bs4.MarkupResemblesLocatorWarning.FILENAME_MESSAGE",
+      "kind": "property",
+      "dispname": "FILENAME_MESSAGE",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.MarkupResemblesLocatorWarning.FILENAME_MESSAGE"
+    },
+    {
+      "path": "bs4.MarkupResemblesLocatorWarning.URL_MESSAGE",
+      "kind": "property",
+      "dispname": "URL_MESSAGE",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.MarkupResemblesLocatorWarning.URL_MESSAGE"
+    },
+    {
+      "path": "bs4.ParserRejectedMarkup",
+      "kind": "class",
+      "dispname": "ParserRejectedMarkup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ParserRejectedMarkup"
+    },
+    {
+      "path": "bs4.ProcessingInstruction",
+      "kind": "class",
+      "dispname": "ProcessingInstruction",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ProcessingInstruction"
+    },
+    {
+      "path": "bs4.ProcessingInstruction.PREFIX",
+      "kind": "property",
+      "dispname": "PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ProcessingInstruction.PREFIX"
+    },
+    {
+      "path": "bs4.ProcessingInstruction.SUFFIX",
+      "kind": "property",
+      "dispname": "SUFFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ProcessingInstruction.SUFFIX"
+    },
+    {
+      "path": "bs4.ResultSet",
+      "kind": "class",
+      "dispname": "ResultSet",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ResultSet"
+    },
+    {
+      "path": "bs4.ResultSet.source",
+      "kind": "property",
+      "dispname": "source",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.ResultSet.source"
+    },
+    {
+      "path": "bs4.Script",
+      "kind": "class",
+      "dispname": "Script",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Script"
+    },
+    {
+      "path": "bs4.StopParsing",
+      "kind": "class",
+      "dispname": "StopParsing",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.StopParsing"
+    },
+    {
+      "path": "bs4.Stylesheet",
+      "kind": "class",
+      "dispname": "Stylesheet",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Stylesheet"
+    },
+    {
+      "path": "bs4.Tag",
+      "kind": "class",
+      "dispname": "Tag",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag"
+    },
+    {
+      "path": "bs4.Tag.append",
+      "kind": "method",
+      "dispname": "append",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.append"
+    },
+    {
+      "path": "bs4.Tag.attrs",
+      "kind": "property",
+      "dispname": "attrs",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.attrs"
+    },
+    {
+      "path": "bs4.Tag.can_be_empty_element",
+      "kind": "property",
+      "dispname": "can_be_empty_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.can_be_empty_element"
+    },
+    {
+      "path": "bs4.Tag.cdata_list_attributes",
+      "kind": "property",
+      "dispname": "cdata_list_attributes",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.cdata_list_attributes"
+    },
+    {
+      "path": "bs4.Tag.children",
+      "kind": "property",
+      "dispname": "children",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.children"
+    },
+    {
+      "path": "bs4.Tag.clear",
+      "kind": "method",
+      "dispname": "clear",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.clear"
+    },
+    {
+      "path": "bs4.Tag.contents",
+      "kind": "property",
+      "dispname": "contents",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.contents"
+    },
+    {
+      "path": "bs4.Tag.copy_self",
+      "kind": "method",
+      "dispname": "copy_self",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.copy_self"
+    },
+    {
+      "path": "bs4.Tag.css",
+      "kind": "property",
+      "dispname": "css",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.css"
+    },
+    {
+      "path": "bs4.Tag.decode",
+      "kind": "method",
+      "dispname": "decode",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.decode"
+    },
+    {
+      "path": "bs4.Tag.decode_contents",
+      "kind": "method",
+      "dispname": "decode_contents",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.decode_contents"
+    },
+    {
+      "path": "bs4.Tag.descendants",
+      "kind": "property",
+      "dispname": "descendants",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.descendants"
+    },
+    {
+      "path": "bs4.Tag.encode",
+      "kind": "method",
+      "dispname": "encode",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.encode"
+    },
+    {
+      "path": "bs4.Tag.encode_contents",
+      "kind": "method",
+      "dispname": "encode_contents",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.encode_contents"
+    },
+    {
+      "path": "bs4.Tag.extend",
+      "kind": "method",
+      "dispname": "extend",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.extend"
+    },
+    {
+      "path": "bs4.Tag.find",
+      "kind": "method",
+      "dispname": "find",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.find"
+    },
+    {
+      "path": "bs4.Tag.find_all",
+      "kind": "method",
+      "dispname": "find_all",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.find_all"
+    },
+    {
+      "path": "bs4.Tag.get",
+      "kind": "method",
+      "dispname": "get",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.get"
+    },
+    {
+      "path": "bs4.Tag.get_attribute_list",
+      "kind": "method",
+      "dispname": "get_attribute_list",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.get_attribute_list"
+    },
+    {
+      "path": "bs4.Tag.has_attr",
+      "kind": "method",
+      "dispname": "has_attr",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.has_attr"
+    },
+    {
+      "path": "bs4.Tag.index",
+      "kind": "method",
+      "dispname": "index",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.index"
+    },
+    {
+      "path": "bs4.Tag.insert",
+      "kind": "method",
+      "dispname": "insert",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.insert"
+    },
+    {
+      "path": "bs4.Tag.interesting_string_types",
+      "kind": "property",
+      "dispname": "interesting_string_types",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.interesting_string_types"
+    },
+    {
+      "path": "bs4.Tag.isSelfClosing",
+      "kind": "method",
+      "dispname": "isSelfClosing",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.isSelfClosing"
+    },
+    {
+      "path": "bs4.Tag.is_empty_element",
+      "kind": "property",
+      "dispname": "is_empty_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.is_empty_element"
+    },
+    {
+      "path": "bs4.Tag.name",
+      "kind": "property",
+      "dispname": "name",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.name"
+    },
+    {
+      "path": "bs4.Tag.namespace",
+      "kind": "property",
+      "dispname": "namespace",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.namespace"
+    },
+    {
+      "path": "bs4.Tag.parser_class",
+      "kind": "property",
+      "dispname": "parser_class",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.parser_class"
+    },
+    {
+      "path": "bs4.Tag.prefix",
+      "kind": "property",
+      "dispname": "prefix",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.prefix"
+    },
+    {
+      "path": "bs4.Tag.preserve_whitespace_tags",
+      "kind": "property",
+      "dispname": "preserve_whitespace_tags",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.preserve_whitespace_tags"
+    },
+    {
+      "path": "bs4.Tag.prettify",
+      "kind": "method",
+      "dispname": "prettify",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.prettify"
+    },
+    {
+      "path": "bs4.Tag.replaceWithChildren",
+      "kind": "method",
+      "dispname": "replaceWithChildren",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.replaceWithChildren"
+    },
+    {
+      "path": "bs4.Tag.replace_with_children",
+      "kind": "method",
+      "dispname": "replace_with_children",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.replace_with_children"
+    },
+    {
+      "path": "bs4.Tag.select",
+      "kind": "method",
+      "dispname": "select",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.select"
+    },
+    {
+      "path": "bs4.Tag.select_one",
+      "kind": "method",
+      "dispname": "select_one",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.select_one"
+    },
+    {
+      "path": "bs4.Tag.self_and_descendants",
+      "kind": "property",
+      "dispname": "self_and_descendants",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.self_and_descendants"
+    },
+    {
+      "path": "bs4.Tag.smooth",
+      "kind": "method",
+      "dispname": "smooth",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.smooth"
+    },
+    {
+      "path": "bs4.Tag.sourceline",
+      "kind": "property",
+      "dispname": "sourceline",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.sourceline"
+    },
+    {
+      "path": "bs4.Tag.sourcepos",
+      "kind": "property",
+      "dispname": "sourcepos",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.sourcepos"
+    },
+    {
+      "path": "bs4.Tag.string",
+      "kind": "property",
+      "dispname": "string",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.string"
+    },
+    {
+      "path": "bs4.Tag.strings",
+      "kind": "property",
+      "dispname": "strings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.strings"
+    },
+    {
+      "path": "bs4.Tag.unwrap",
+      "kind": "method",
+      "dispname": "unwrap",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.Tag.unwrap"
+    },
+    {
+      "path": "bs4.TemplateString",
+      "kind": "class",
+      "dispname": "TemplateString",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.TemplateString"
+    },
+    {
+      "path": "bs4.UnicodeDammit",
+      "kind": "class",
+      "dispname": "UnicodeDammit",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit"
+    },
+    {
+      "path": "bs4.UnicodeDammit.CHARSET_ALIASES",
+      "kind": "property",
+      "dispname": "CHARSET_ALIASES",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.CHARSET_ALIASES"
+    },
+    {
+      "path": "bs4.UnicodeDammit.ENCODINGS_WITH_SMART_QUOTES",
+      "kind": "property",
+      "dispname": "ENCODINGS_WITH_SMART_QUOTES",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.ENCODINGS_WITH_SMART_QUOTES"
+    },
+    {
+      "path": "bs4.UnicodeDammit.ENUMERATED_NONCHARACTERS",
+      "kind": "property",
+      "dispname": "ENUMERATED_NONCHARACTERS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.ENUMERATED_NONCHARACTERS"
+    },
+    {
+      "path": "bs4.UnicodeDammit.MS_CHARS",
+      "kind": "property",
+      "dispname": "MS_CHARS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.MS_CHARS"
+    },
+    {
+      "path": "bs4.UnicodeDammit.WINDOWS_1252_TO_UTF8",
+      "kind": "property",
+      "dispname": "WINDOWS_1252_TO_UTF8",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.WINDOWS_1252_TO_UTF8"
+    },
+    {
+      "path": "bs4.UnicodeDammit.contains_replacement_characters",
+      "kind": "property",
+      "dispname": "contains_replacement_characters",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.contains_replacement_characters"
+    },
+    {
+      "path": "bs4.UnicodeDammit.declared_html_encoding",
+      "kind": "property",
+      "dispname": "declared_html_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.declared_html_encoding"
+    },
+    {
+      "path": "bs4.UnicodeDammit.detwingle",
+      "kind": "method",
+      "dispname": "detwingle",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.detwingle"
+    },
+    {
+      "path": "bs4.UnicodeDammit.find_codec",
+      "kind": "method",
+      "dispname": "find_codec",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.find_codec"
+    },
+    {
+      "path": "bs4.UnicodeDammit.markup",
+      "kind": "property",
+      "dispname": "markup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.markup"
+    },
+    {
+      "path": "bs4.UnicodeDammit.numeric_character_reference",
+      "kind": "method",
+      "dispname": "numeric_character_reference",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.numeric_character_reference"
+    },
+    {
+      "path": "bs4.UnicodeDammit.original_encoding",
+      "kind": "property",
+      "dispname": "original_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.original_encoding"
+    },
+    {
+      "path": "bs4.UnicodeDammit.smart_quotes_to",
+      "kind": "property",
+      "dispname": "smart_quotes_to",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.smart_quotes_to"
+    },
+    {
+      "path": "bs4.UnicodeDammit.tried_encodings",
+      "kind": "property",
+      "dispname": "tried_encodings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.tried_encodings"
+    },
+    {
+      "path": "bs4.UnicodeDammit.unicode_markup",
+      "kind": "property",
+      "dispname": "unicode_markup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnicodeDammit.unicode_markup"
+    },
+    {
+      "path": "bs4.UnusualUsageWarning",
+      "kind": "class",
+      "dispname": "UnusualUsageWarning",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnusualUsageWarning"
+    },
+    {
+      "path": "bs4.XMLParsedAsHTMLWarning",
+      "kind": "class",
+      "dispname": "XMLParsedAsHTMLWarning",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.XMLParsedAsHTMLWarning"
+    },
+    {
+      "path": "bs4.XMLParsedAsHTMLWarning.MESSAGE",
+      "kind": "property",
+      "dispname": "MESSAGE",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.XMLParsedAsHTMLWarning.MESSAGE"
+    },
+    {
+      "path": "bs4._typing",
+      "kind": "module",
+      "dispname": "_typing",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#module-bs4._typing"
+    },
+    {
+      "path": "bs4._typing._AttributeValues",
+      "kind": "constant",
+      "dispname": "_AttributeValues",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._AttributeValues"
+    },
+    {
+      "path": "bs4._typing._BaseStrainable",
+      "kind": "constant",
+      "dispname": "_BaseStrainable",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._BaseStrainable"
+    },
+    {
+      "path": "bs4._typing._BaseStrainableAttribute",
+      "kind": "constant",
+      "dispname": "_BaseStrainableAttribute",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._BaseStrainableAttribute"
+    },
+    {
+      "path": "bs4._typing._BaseStrainableElement",
+      "kind": "constant",
+      "dispname": "_BaseStrainableElement",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._BaseStrainableElement"
+    },
+    {
+      "path": "bs4._typing._Encoding",
+      "kind": "property",
+      "dispname": "_Encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._Encoding"
+    },
+    {
+      "path": "bs4._typing._Encodings",
+      "kind": "constant",
+      "dispname": "_Encodings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._Encodings"
+    },
+    {
+      "path": "bs4._typing._IncomingMarkup",
+      "kind": "constant",
+      "dispname": "_IncomingMarkup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._IncomingMarkup"
+    },
+    {
+      "path": "bs4._typing._InsertableElement",
+      "kind": "constant",
+      "dispname": "_InsertableElement",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._InsertableElement"
+    },
+    {
+      "path": "bs4._typing._InvertedNamespaceMapping",
+      "kind": "constant",
+      "dispname": "_InvertedNamespaceMapping",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._InvertedNamespaceMapping"
+    },
+    {
+      "path": "bs4._typing._NamespaceMapping",
+      "kind": "constant",
+      "dispname": "_NamespaceMapping",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._NamespaceMapping"
+    },
+    {
+      "path": "bs4._typing._NamespacePrefix",
+      "kind": "property",
+      "dispname": "_NamespacePrefix",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._NamespacePrefix"
+    },
+    {
+      "path": "bs4._typing._NamespaceURL",
+      "kind": "property",
+      "dispname": "_NamespaceURL",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._NamespaceURL"
+    },
+    {
+      "path": "bs4._typing._NullableStringMatchFunction",
+      "kind": "constant",
+      "dispname": "_NullableStringMatchFunction",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._NullableStringMatchFunction"
+    },
+    {
+      "path": "bs4._typing._OneElement",
+      "kind": "constant",
+      "dispname": "_OneElement",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._OneElement"
+    },
+    {
+      "path": "bs4._typing._PageElementMatchFunction",
+      "kind": "constant",
+      "dispname": "_PageElementMatchFunction",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._PageElementMatchFunction"
+    },
+    {
+      "path": "bs4._typing._RawAttributeValue",
+      "kind": "property",
+      "dispname": "_RawAttributeValue",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._RawAttributeValue"
+    },
+    {
+      "path": "bs4._typing._RawAttributeValues",
+      "kind": "constant",
+      "dispname": "_RawAttributeValues",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._RawAttributeValues"
+    },
+    {
+      "path": "bs4._typing._RawMarkup",
+      "kind": "constant",
+      "dispname": "_RawMarkup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._RawMarkup"
+    },
+    {
+      "path": "bs4._typing._RawOrProcessedAttributeValues",
+      "kind": "constant",
+      "dispname": "_RawOrProcessedAttributeValues",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._RawOrProcessedAttributeValues"
+    },
+    {
+      "path": "bs4._typing._RegularExpressionProtocol",
+      "kind": "class",
+      "dispname": "_RegularExpressionProtocol",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._RegularExpressionProtocol"
+    },
+    {
+      "path": "bs4._typing._RegularExpressionProtocol._abc_impl",
+      "kind": "property",
+      "dispname": "_abc_impl",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._RegularExpressionProtocol._abc_impl"
+    },
+    {
+      "path": "bs4._typing._RegularExpressionProtocol._is_protocol",
+      "kind": "property",
+      "dispname": "_is_protocol",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._RegularExpressionProtocol._is_protocol"
+    },
+    {
+      "path": "bs4._typing._RegularExpressionProtocol._is_runtime_protocol",
+      "kind": "property",
+      "dispname": "_is_runtime_protocol",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._RegularExpressionProtocol._is_runtime_protocol"
+    },
+    {
+      "path": "bs4._typing._RegularExpressionProtocol.pattern",
+      "kind": "property",
+      "dispname": "pattern",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._RegularExpressionProtocol.pattern"
+    },
+    {
+      "path": "bs4._typing._RegularExpressionProtocol.search",
+      "kind": "method",
+      "dispname": "search",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._RegularExpressionProtocol.search"
+    },
+    {
+      "path": "bs4._typing._StrainableAttribute",
+      "kind": "constant",
+      "dispname": "_StrainableAttribute",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._StrainableAttribute"
+    },
+    {
+      "path": "bs4._typing._StrainableAttributes",
+      "kind": "constant",
+      "dispname": "_StrainableAttributes",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._StrainableAttributes"
+    },
+    {
+      "path": "bs4._typing._StrainableElement",
+      "kind": "constant",
+      "dispname": "_StrainableElement",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._StrainableElement"
+    },
+    {
+      "path": "bs4._typing._StrainableString",
+      "kind": "constant",
+      "dispname": "_StrainableString",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._StrainableString"
+    },
+    {
+      "path": "bs4._typing._TagMatchFunction",
+      "kind": "constant",
+      "dispname": "_TagMatchFunction",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4._typing._TagMatchFunction"
+    },
+    {
+      "path": "bs4._warnings.AttributeResemblesVariableWarning",
+      "kind": "class",
+      "dispname": "AttributeResemblesVariableWarning",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.AttributeResemblesVariableWarning"
+    },
+    {
+      "path": "bs4._warnings.GuessedAtParserWarning",
+      "kind": "class",
+      "dispname": "GuessedAtParserWarning",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.GuessedAtParserWarning"
+    },
+    {
+      "path": "bs4._warnings.MarkupResemblesLocatorWarning",
+      "kind": "class",
+      "dispname": "MarkupResemblesLocatorWarning",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.MarkupResemblesLocatorWarning"
+    },
+    {
+      "path": "bs4._warnings.UnusualUsageWarning",
+      "kind": "class",
+      "dispname": "UnusualUsageWarning",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.UnusualUsageWarning"
+    },
+    {
+      "path": "bs4._warnings.XMLParsedAsHTMLWarning",
+      "kind": "class",
+      "dispname": "XMLParsedAsHTMLWarning",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.XMLParsedAsHTMLWarning"
+    },
+    {
+      "path": "bs4.builder",
+      "kind": "module",
+      "dispname": "builder",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#module-bs4.builder"
+    },
+    {
+      "path": "bs4.builder.DetectsXMLParsedAsHTML",
+      "kind": "class",
+      "dispname": "DetectsXMLParsedAsHTML",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.DetectsXMLParsedAsHTML"
+    },
+    {
+      "path": "bs4.builder.DetectsXMLParsedAsHTML.LOOKS_LIKE_HTML",
+      "kind": "property",
+      "dispname": "LOOKS_LIKE_HTML",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.DetectsXMLParsedAsHTML.LOOKS_LIKE_HTML"
+    },
+    {
+      "path": "bs4.builder.DetectsXMLParsedAsHTML.LOOKS_LIKE_HTML_B",
+      "kind": "property",
+      "dispname": "LOOKS_LIKE_HTML_B",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.DetectsXMLParsedAsHTML.LOOKS_LIKE_HTML_B"
+    },
+    {
+      "path": "bs4.builder.DetectsXMLParsedAsHTML.XML_PREFIX",
+      "kind": "property",
+      "dispname": "XML_PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.DetectsXMLParsedAsHTML.XML_PREFIX"
+    },
+    {
+      "path": "bs4.builder.DetectsXMLParsedAsHTML.XML_PREFIX_B",
+      "kind": "property",
+      "dispname": "XML_PREFIX_B",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.DetectsXMLParsedAsHTML.XML_PREFIX_B"
+    },
+    {
+      "path": "bs4.builder.DetectsXMLParsedAsHTML.warn_if_markup_looks_like_xml",
+      "kind": "method",
+      "dispname": "warn_if_markup_looks_like_xml",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.DetectsXMLParsedAsHTML.warn_if_markup_looks_like_xml"
+    },
+    {
+      "path": "bs4.builder.HTML5TreeBuilder",
+      "kind": "class",
+      "dispname": "HTML5TreeBuilder",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTML5TreeBuilder"
+    },
+    {
+      "path": "bs4.builder.HTML5TreeBuilder.NAME",
+      "kind": "property",
+      "dispname": "NAME",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTML5TreeBuilder.NAME"
+    },
+    {
+      "path": "bs4.builder.HTML5TreeBuilder.TRACKS_LINE_NUMBERS",
+      "kind": "property",
+      "dispname": "TRACKS_LINE_NUMBERS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTML5TreeBuilder.TRACKS_LINE_NUMBERS"
+    },
+    {
+      "path": "bs4.builder.HTML5TreeBuilder.features",
+      "kind": "property",
+      "dispname": "features",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTML5TreeBuilder.features"
+    },
+    {
+      "path": "bs4.builder.HTML5TreeBuilder.feed",
+      "kind": "method",
+      "dispname": "feed",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTML5TreeBuilder.feed"
+    },
+    {
+      "path": "bs4.builder.HTML5TreeBuilder.test_fragment_to_document",
+      "kind": "method",
+      "dispname": "test_fragment_to_document",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTML5TreeBuilder.test_fragment_to_document"
+    },
+    {
+      "path": "bs4.builder.HTML5TreeBuilder.user_specified_encoding",
+      "kind": "property",
+      "dispname": "user_specified_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTML5TreeBuilder.user_specified_encoding"
+    },
+    {
+      "path": "bs4.builder.HTMLParserTreeBuilder",
+      "kind": "class",
+      "dispname": "HTMLParserTreeBuilder",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLParserTreeBuilder"
+    },
+    {
+      "path": "bs4.builder.HTMLParserTreeBuilder.NAME",
+      "kind": "property",
+      "dispname": "NAME",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLParserTreeBuilder.NAME"
+    },
+    {
+      "path": "bs4.builder.HTMLParserTreeBuilder.TRACKS_LINE_NUMBERS",
+      "kind": "property",
+      "dispname": "TRACKS_LINE_NUMBERS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLParserTreeBuilder.TRACKS_LINE_NUMBERS"
+    },
+    {
+      "path": "bs4.builder.HTMLParserTreeBuilder.features",
+      "kind": "property",
+      "dispname": "features",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLParserTreeBuilder.features"
+    },
+    {
+      "path": "bs4.builder.HTMLParserTreeBuilder.feed",
+      "kind": "method",
+      "dispname": "feed",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLParserTreeBuilder.feed"
+    },
+    {
+      "path": "bs4.builder.HTMLParserTreeBuilder.is_xml",
+      "kind": "property",
+      "dispname": "is_xml",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLParserTreeBuilder.is_xml"
+    },
+    {
+      "path": "bs4.builder.HTMLParserTreeBuilder.parser_args",
+      "kind": "property",
+      "dispname": "parser_args",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLParserTreeBuilder.parser_args"
+    },
+    {
+      "path": "bs4.builder.HTMLParserTreeBuilder.picklable",
+      "kind": "property",
+      "dispname": "picklable",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLParserTreeBuilder.picklable"
+    },
+    {
+      "path": "bs4.builder.HTMLParserTreeBuilder.prepare_markup",
+      "kind": "method",
+      "dispname": "prepare_markup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLParserTreeBuilder.prepare_markup"
+    },
+    {
+      "path": "bs4.builder.HTMLTreeBuilder",
+      "kind": "class",
+      "dispname": "HTMLTreeBuilder",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLTreeBuilder"
+    },
+    {
+      "path": "bs4.builder.HTMLTreeBuilder.DEFAULT_BLOCK_ELEMENTS",
+      "kind": "property",
+      "dispname": "DEFAULT_BLOCK_ELEMENTS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLTreeBuilder.DEFAULT_BLOCK_ELEMENTS"
+    },
+    {
+      "path": "bs4.builder.HTMLTreeBuilder.DEFAULT_CDATA_LIST_ATTRIBUTES",
+      "kind": "property",
+      "dispname": "DEFAULT_CDATA_LIST_ATTRIBUTES",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLTreeBuilder.DEFAULT_CDATA_LIST_ATTRIBUTES"
+    },
+    {
+      "path": "bs4.builder.HTMLTreeBuilder.DEFAULT_EMPTY_ELEMENT_TAGS",
+      "kind": "property",
+      "dispname": "DEFAULT_EMPTY_ELEMENT_TAGS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLTreeBuilder.DEFAULT_EMPTY_ELEMENT_TAGS"
+    },
+    {
+      "path": "bs4.builder.HTMLTreeBuilder.DEFAULT_PRESERVE_WHITESPACE_TAGS",
+      "kind": "property",
+      "dispname": "DEFAULT_PRESERVE_WHITESPACE_TAGS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLTreeBuilder.DEFAULT_PRESERVE_WHITESPACE_TAGS"
+    },
+    {
+      "path": "bs4.builder.HTMLTreeBuilder.DEFAULT_STRING_CONTAINERS",
+      "kind": "property",
+      "dispname": "DEFAULT_STRING_CONTAINERS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLTreeBuilder.DEFAULT_STRING_CONTAINERS"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilder",
+      "kind": "class",
+      "dispname": "LXMLTreeBuilder",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilder"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilder.ALTERNATE_NAMES",
+      "kind": "property",
+      "dispname": "ALTERNATE_NAMES",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilder.ALTERNATE_NAMES"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilder.NAME",
+      "kind": "property",
+      "dispname": "NAME",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilder.NAME"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilder.default_parser",
+      "kind": "method",
+      "dispname": "default_parser",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilder.default_parser"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilder.features",
+      "kind": "property",
+      "dispname": "features",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilder.features"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilder.feed",
+      "kind": "method",
+      "dispname": "feed",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilder.feed"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilder.is_xml",
+      "kind": "property",
+      "dispname": "is_xml",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilder.is_xml"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilder.test_fragment_to_document",
+      "kind": "method",
+      "dispname": "test_fragment_to_document",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilder.test_fragment_to_document"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML",
+      "kind": "class",
+      "dispname": "LXMLTreeBuilderForXML",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.ALTERNATE_NAMES",
+      "kind": "property",
+      "dispname": "ALTERNATE_NAMES",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.ALTERNATE_NAMES"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.CHUNK_SIZE",
+      "kind": "property",
+      "dispname": "CHUNK_SIZE",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.CHUNK_SIZE"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.DEFAULT_NSMAPS",
+      "kind": "property",
+      "dispname": "DEFAULT_NSMAPS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.DEFAULT_NSMAPS"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.DEFAULT_NSMAPS_INVERTED",
+      "kind": "property",
+      "dispname": "DEFAULT_NSMAPS_INVERTED",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.DEFAULT_NSMAPS_INVERTED"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.DEFAULT_PARSER_CLASS",
+      "kind": "property",
+      "dispname": "DEFAULT_PARSER_CLASS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.DEFAULT_PARSER_CLASS"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.NAME",
+      "kind": "property",
+      "dispname": "NAME",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.NAME"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.close",
+      "kind": "method",
+      "dispname": "close",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.close"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.comment",
+      "kind": "method",
+      "dispname": "comment",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.comment"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.data",
+      "kind": "method",
+      "dispname": "data",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.data"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.default_parser",
+      "kind": "method",
+      "dispname": "default_parser",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.default_parser"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.doctype",
+      "kind": "method",
+      "dispname": "doctype",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.doctype"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.end",
+      "kind": "method",
+      "dispname": "end",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.end"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.features",
+      "kind": "property",
+      "dispname": "features",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.features"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.feed",
+      "kind": "method",
+      "dispname": "feed",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.feed"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.huge_tree",
+      "kind": "property",
+      "dispname": "huge_tree",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.huge_tree"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.initialize_soup",
+      "kind": "method",
+      "dispname": "initialize_soup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.initialize_soup"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.is_xml",
+      "kind": "property",
+      "dispname": "is_xml",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.is_xml"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.nsmaps",
+      "kind": "property",
+      "dispname": "nsmaps",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.nsmaps"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.parser",
+      "kind": "property",
+      "dispname": "parser",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.parser"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.parser_for",
+      "kind": "method",
+      "dispname": "parser_for",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.parser_for"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.pi",
+      "kind": "method",
+      "dispname": "pi",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.pi"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.prepare_markup",
+      "kind": "method",
+      "dispname": "prepare_markup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.prepare_markup"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.processing_instruction_class",
+      "kind": "property",
+      "dispname": "processing_instruction_class",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.processing_instruction_class"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.start",
+      "kind": "method",
+      "dispname": "start",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.start"
+    },
+    {
+      "path": "bs4.builder.LXMLTreeBuilderForXML.test_fragment_to_document",
+      "kind": "method",
+      "dispname": "test_fragment_to_document",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML.test_fragment_to_document"
+    },
+    {
+      "path": "bs4.builder.ParserRejectedMarkup",
+      "kind": "class",
+      "dispname": "ParserRejectedMarkup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.ParserRejectedMarkup"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder",
+      "kind": "class",
+      "dispname": "TreeBuilder",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.ALTERNATE_NAMES",
+      "kind": "property",
+      "dispname": "ALTERNATE_NAMES",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.ALTERNATE_NAMES"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.DEFAULT_CDATA_LIST_ATTRIBUTES",
+      "kind": "property",
+      "dispname": "DEFAULT_CDATA_LIST_ATTRIBUTES",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.DEFAULT_CDATA_LIST_ATTRIBUTES"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.DEFAULT_EMPTY_ELEMENT_TAGS",
+      "kind": "property",
+      "dispname": "DEFAULT_EMPTY_ELEMENT_TAGS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.DEFAULT_EMPTY_ELEMENT_TAGS"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.DEFAULT_PRESERVE_WHITESPACE_TAGS",
+      "kind": "property",
+      "dispname": "DEFAULT_PRESERVE_WHITESPACE_TAGS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.DEFAULT_PRESERVE_WHITESPACE_TAGS"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.DEFAULT_STRING_CONTAINERS",
+      "kind": "property",
+      "dispname": "DEFAULT_STRING_CONTAINERS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.DEFAULT_STRING_CONTAINERS"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.NAME",
+      "kind": "property",
+      "dispname": "NAME",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.NAME"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.TRACKS_LINE_NUMBERS",
+      "kind": "property",
+      "dispname": "TRACKS_LINE_NUMBERS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.TRACKS_LINE_NUMBERS"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.can_be_empty_element",
+      "kind": "method",
+      "dispname": "can_be_empty_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.can_be_empty_element"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.features",
+      "kind": "property",
+      "dispname": "features",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.features"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.feed",
+      "kind": "method",
+      "dispname": "feed",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.feed"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.initialize_soup",
+      "kind": "method",
+      "dispname": "initialize_soup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.initialize_soup"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.is_xml",
+      "kind": "property",
+      "dispname": "is_xml",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.is_xml"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.picklable",
+      "kind": "property",
+      "dispname": "picklable",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.picklable"
+    },
+    {
+      "path": "bs4.builder.TreeBuilder.reset",
+      "kind": "method",
+      "dispname": "reset",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilder.reset"
+    },
+    {
+      "path": "bs4.builder.TreeBuilderRegistry",
+      "kind": "class",
+      "dispname": "TreeBuilderRegistry",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilderRegistry"
+    },
+    {
+      "path": "bs4.builder.TreeBuilderRegistry.builders",
+      "kind": "property",
+      "dispname": "builders",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilderRegistry.builders"
+    },
+    {
+      "path": "bs4.builder.TreeBuilderRegistry.builders_for_feature",
+      "kind": "property",
+      "dispname": "builders_for_feature",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilderRegistry.builders_for_feature"
+    },
+    {
+      "path": "bs4.builder.TreeBuilderRegistry.lookup",
+      "kind": "method",
+      "dispname": "lookup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilderRegistry.lookup"
+    },
+    {
+      "path": "bs4.builder.TreeBuilderRegistry.register",
+      "kind": "method",
+      "dispname": "register",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.TreeBuilderRegistry.register"
+    },
+    {
+      "path": "bs4.builder._html5lib.HTML5TreeBuilder",
+      "kind": "class",
+      "dispname": "HTML5TreeBuilder",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTML5TreeBuilder"
+    },
+    {
+      "path": "bs4.builder._htmlparser.HTMLParserTreeBuilder",
+      "kind": "class",
+      "dispname": "HTMLParserTreeBuilder",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.HTMLParserTreeBuilder"
+    },
+    {
+      "path": "bs4.builder._lxml.LXMLTreeBuilder",
+      "kind": "class",
+      "dispname": "LXMLTreeBuilder",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilder"
+    },
+    {
+      "path": "bs4.builder._lxml.LXMLTreeBuilderForXML",
+      "kind": "class",
+      "dispname": "LXMLTreeBuilderForXML",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.LXMLTreeBuilderForXML"
+    },
+    {
+      "path": "bs4.css",
+      "kind": "module",
+      "dispname": "css",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#module-bs4.css"
+    },
+    {
+      "path": "bs4.css.CSS",
+      "kind": "class",
+      "dispname": "CSS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.css.CSS"
+    },
+    {
+      "path": "bs4.css.CSS.closest",
+      "kind": "method",
+      "dispname": "closest",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.css.CSS.closest"
+    },
+    {
+      "path": "bs4.css.CSS.compile",
+      "kind": "method",
+      "dispname": "compile",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.css.CSS.compile"
+    },
+    {
+      "path": "bs4.css.CSS.escape",
+      "kind": "method",
+      "dispname": "escape",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.css.CSS.escape"
+    },
+    {
+      "path": "bs4.css.CSS.filter",
+      "kind": "method",
+      "dispname": "filter",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.css.CSS.filter"
+    },
+    {
+      "path": "bs4.css.CSS.iselect",
+      "kind": "method",
+      "dispname": "iselect",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.css.CSS.iselect"
+    },
+    {
+      "path": "bs4.css.CSS.match",
+      "kind": "method",
+      "dispname": "match",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.css.CSS.match"
+    },
+    {
+      "path": "bs4.css.CSS.select",
+      "kind": "method",
+      "dispname": "select",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.css.CSS.select"
+    },
+    {
+      "path": "bs4.css.CSS.select_one",
+      "kind": "method",
+      "dispname": "select_one",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.css.CSS.select_one"
+    },
+    {
+      "path": "bs4.dammit",
+      "kind": "module",
+      "dispname": "dammit",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#module-bs4.dammit"
+    },
+    {
+      "path": "bs4.dammit.EncodingDetector",
+      "kind": "class",
+      "dispname": "EncodingDetector",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EncodingDetector"
+    },
+    {
+      "path": "bs4.dammit.EncodingDetector.chardet_encoding",
+      "kind": "property",
+      "dispname": "chardet_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EncodingDetector.chardet_encoding"
+    },
+    {
+      "path": "bs4.dammit.EncodingDetector.declared_encoding",
+      "kind": "property",
+      "dispname": "declared_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EncodingDetector.declared_encoding"
+    },
+    {
+      "path": "bs4.dammit.EncodingDetector.encodings",
+      "kind": "property",
+      "dispname": "encodings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EncodingDetector.encodings"
+    },
+    {
+      "path": "bs4.dammit.EncodingDetector.exclude_encodings",
+      "kind": "property",
+      "dispname": "exclude_encodings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EncodingDetector.exclude_encodings"
+    },
+    {
+      "path": "bs4.dammit.EncodingDetector.find_declared_encoding",
+      "kind": "method",
+      "dispname": "find_declared_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EncodingDetector.find_declared_encoding"
+    },
+    {
+      "path": "bs4.dammit.EncodingDetector.is_html",
+      "kind": "property",
+      "dispname": "is_html",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EncodingDetector.is_html"
+    },
+    {
+      "path": "bs4.dammit.EncodingDetector.known_definite_encodings",
+      "kind": "property",
+      "dispname": "known_definite_encodings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EncodingDetector.known_definite_encodings"
+    },
+    {
+      "path": "bs4.dammit.EncodingDetector.markup",
+      "kind": "property",
+      "dispname": "markup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EncodingDetector.markup"
+    },
+    {
+      "path": "bs4.dammit.EncodingDetector.sniffed_encoding",
+      "kind": "property",
+      "dispname": "sniffed_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EncodingDetector.sniffed_encoding"
+    },
+    {
+      "path": "bs4.dammit.EncodingDetector.strip_byte_order_mark",
+      "kind": "method",
+      "dispname": "strip_byte_order_mark",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EncodingDetector.strip_byte_order_mark"
+    },
+    {
+      "path": "bs4.dammit.EncodingDetector.user_encodings",
+      "kind": "property",
+      "dispname": "user_encodings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EncodingDetector.user_encodings"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitution",
+      "kind": "class",
+      "dispname": "EntitySubstitution",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitution"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitution.AMPERSAND_OR_BRACKET",
+      "kind": "property",
+      "dispname": "AMPERSAND_OR_BRACKET",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitution.AMPERSAND_OR_BRACKET"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitution.ANY_ENTITY_RE",
+      "kind": "property",
+      "dispname": "ANY_ENTITY_RE",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitution.ANY_ENTITY_RE"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitution.BARE_AMPERSAND_OR_BRACKET",
+      "kind": "property",
+      "dispname": "BARE_AMPERSAND_OR_BRACKET",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitution.BARE_AMPERSAND_OR_BRACKET"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitution.CHARACTER_TO_XML_ENTITY",
+      "kind": "property",
+      "dispname": "CHARACTER_TO_XML_ENTITY",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitution.CHARACTER_TO_XML_ENTITY"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitution.quoted_attribute_value",
+      "kind": "method",
+      "dispname": "quoted_attribute_value",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitution.quoted_attribute_value"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitution.substitute_html",
+      "kind": "method",
+      "dispname": "substitute_html",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitution.substitute_html"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitution.substitute_html5",
+      "kind": "method",
+      "dispname": "substitute_html5",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitution.substitute_html5"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitution.substitute_html5_raw",
+      "kind": "method",
+      "dispname": "substitute_html5_raw",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitution.substitute_html5_raw"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitution.substitute_xml",
+      "kind": "method",
+      "dispname": "substitute_xml",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitution.substitute_xml"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitution.substitute_xml_containing_entities",
+      "kind": "method",
+      "dispname": "substitute_xml_containing_entities",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitution.substitute_xml_containing_entities"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitutionMeta",
+      "kind": "class",
+      "dispname": "EntitySubstitutionMeta",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitutionMeta"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitutionMeta.CHARACTER_TO_HTML_ENTITY",
+      "kind": "property",
+      "dispname": "CHARACTER_TO_HTML_ENTITY",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitutionMeta.CHARACTER_TO_HTML_ENTITY"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitutionMeta.CHARACTER_TO_HTML_ENTITY_RE",
+      "kind": "property",
+      "dispname": "CHARACTER_TO_HTML_ENTITY_RE",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitutionMeta.CHARACTER_TO_HTML_ENTITY_RE"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitutionMeta.CHARACTER_TO_HTML_ENTITY_WITH_AMPERSAND_RE",
+      "kind": "property",
+      "dispname": "CHARACTER_TO_HTML_ENTITY_WITH_AMPERSAND_RE",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitutionMeta.CHARACTER_TO_HTML_ENTITY_WITH_AMPERSAND_RE"
+    },
+    {
+      "path": "bs4.dammit.EntitySubstitutionMeta.HTML_ENTITY_TO_CHARACTER",
+      "kind": "property",
+      "dispname": "HTML_ENTITY_TO_CHARACTER",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.EntitySubstitutionMeta.HTML_ENTITY_TO_CHARACTER"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit",
+      "kind": "class",
+      "dispname": "UnicodeDammit",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.CHARSET_ALIASES",
+      "kind": "property",
+      "dispname": "CHARSET_ALIASES",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.CHARSET_ALIASES"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.ENCODINGS_WITH_SMART_QUOTES",
+      "kind": "property",
+      "dispname": "ENCODINGS_WITH_SMART_QUOTES",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.ENCODINGS_WITH_SMART_QUOTES"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.ENUMERATED_NONCHARACTERS",
+      "kind": "property",
+      "dispname": "ENUMERATED_NONCHARACTERS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.ENUMERATED_NONCHARACTERS"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.MS_CHARS",
+      "kind": "property",
+      "dispname": "MS_CHARS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.MS_CHARS"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.WINDOWS_1252_TO_UTF8",
+      "kind": "property",
+      "dispname": "WINDOWS_1252_TO_UTF8",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.WINDOWS_1252_TO_UTF8"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.contains_replacement_characters",
+      "kind": "property",
+      "dispname": "contains_replacement_characters",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.contains_replacement_characters"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.declared_html_encoding",
+      "kind": "property",
+      "dispname": "declared_html_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.declared_html_encoding"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.detwingle",
+      "kind": "method",
+      "dispname": "detwingle",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.detwingle"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.find_codec",
+      "kind": "method",
+      "dispname": "find_codec",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.find_codec"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.markup",
+      "kind": "property",
+      "dispname": "markup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.markup"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.numeric_character_reference",
+      "kind": "method",
+      "dispname": "numeric_character_reference",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.numeric_character_reference"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.original_encoding",
+      "kind": "property",
+      "dispname": "original_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.original_encoding"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.smart_quotes_to",
+      "kind": "property",
+      "dispname": "smart_quotes_to",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.smart_quotes_to"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.tried_encodings",
+      "kind": "property",
+      "dispname": "tried_encodings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.tried_encodings"
+    },
+    {
+      "path": "bs4.dammit.UnicodeDammit.unicode_markup",
+      "kind": "property",
+      "dispname": "unicode_markup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.dammit.UnicodeDammit.unicode_markup"
+    },
+    {
+      "path": "bs4.diagnose",
+      "kind": "module",
+      "dispname": "diagnose",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#module-bs4.diagnose"
+    },
+    {
+      "path": "bs4.diagnose.AnnouncingParser",
+      "kind": "class",
+      "dispname": "AnnouncingParser",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.AnnouncingParser"
+    },
+    {
+      "path": "bs4.diagnose.AnnouncingParser.handle_charref",
+      "kind": "method",
+      "dispname": "handle_charref",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.AnnouncingParser.handle_charref"
+    },
+    {
+      "path": "bs4.diagnose.AnnouncingParser.handle_comment",
+      "kind": "method",
+      "dispname": "handle_comment",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.AnnouncingParser.handle_comment"
+    },
+    {
+      "path": "bs4.diagnose.AnnouncingParser.handle_data",
+      "kind": "method",
+      "dispname": "handle_data",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.AnnouncingParser.handle_data"
+    },
+    {
+      "path": "bs4.diagnose.AnnouncingParser.handle_decl",
+      "kind": "method",
+      "dispname": "handle_decl",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.AnnouncingParser.handle_decl"
+    },
+    {
+      "path": "bs4.diagnose.AnnouncingParser.handle_endtag",
+      "kind": "method",
+      "dispname": "handle_endtag",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.AnnouncingParser.handle_endtag"
+    },
+    {
+      "path": "bs4.diagnose.AnnouncingParser.handle_entityref",
+      "kind": "method",
+      "dispname": "handle_entityref",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.AnnouncingParser.handle_entityref"
+    },
+    {
+      "path": "bs4.diagnose.AnnouncingParser.handle_pi",
+      "kind": "method",
+      "dispname": "handle_pi",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.AnnouncingParser.handle_pi"
+    },
+    {
+      "path": "bs4.diagnose.AnnouncingParser.handle_starttag",
+      "kind": "method",
+      "dispname": "handle_starttag",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.AnnouncingParser.handle_starttag"
+    },
+    {
+      "path": "bs4.diagnose.AnnouncingParser.unknown_decl",
+      "kind": "method",
+      "dispname": "unknown_decl",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.AnnouncingParser.unknown_decl"
+    },
+    {
+      "path": "bs4.diagnose.benchmark_parsers",
+      "kind": "function",
+      "dispname": "benchmark_parsers",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.benchmark_parsers"
+    },
+    {
+      "path": "bs4.diagnose.diagnose",
+      "kind": "function",
+      "dispname": "diagnose",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.diagnose"
+    },
+    {
+      "path": "bs4.diagnose.htmlparser_trace",
+      "kind": "function",
+      "dispname": "htmlparser_trace",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.htmlparser_trace"
+    },
+    {
+      "path": "bs4.diagnose.lxml_trace",
+      "kind": "function",
+      "dispname": "lxml_trace",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.lxml_trace"
+    },
+    {
+      "path": "bs4.diagnose.profile",
+      "kind": "function",
+      "dispname": "profile",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.diagnose.profile"
+    },
+    {
+      "path": "bs4.element",
+      "kind": "module",
+      "dispname": "element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#module-bs4.element"
+    },
+    {
+      "path": "bs4.element.AttributeDict",
+      "kind": "class",
+      "dispname": "AttributeDict",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.AttributeDict"
+    },
+    {
+      "path": "bs4.element.AttributeValueList",
+      "kind": "class",
+      "dispname": "AttributeValueList",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.AttributeValueList"
+    },
+    {
+      "path": "bs4.element.AttributeValueWithCharsetSubstitution",
+      "kind": "class",
+      "dispname": "AttributeValueWithCharsetSubstitution",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.AttributeValueWithCharsetSubstitution"
+    },
+    {
+      "path": "bs4.element.AttributeValueWithCharsetSubstitution.substitute_encoding",
+      "kind": "method",
+      "dispname": "substitute_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.AttributeValueWithCharsetSubstitution.substitute_encoding"
+    },
+    {
+      "path": "bs4.element.CData",
+      "kind": "class",
+      "dispname": "CData",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.CData"
+    },
+    {
+      "path": "bs4.element.CData.PREFIX",
+      "kind": "property",
+      "dispname": "PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.CData.PREFIX"
+    },
+    {
+      "path": "bs4.element.CData.SUFFIX",
+      "kind": "property",
+      "dispname": "SUFFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.CData.SUFFIX"
+    },
+    {
+      "path": "bs4.element.CData.next_element",
+      "kind": "property",
+      "dispname": "next_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.CData.next_element"
+    },
+    {
+      "path": "bs4.element.CData.next_sibling",
+      "kind": "property",
+      "dispname": "next_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.CData.next_sibling"
+    },
+    {
+      "path": "bs4.element.CData.parent",
+      "kind": "property",
+      "dispname": "parent",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.CData.parent"
+    },
+    {
+      "path": "bs4.element.CData.previous_element",
+      "kind": "property",
+      "dispname": "previous_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.CData.previous_element"
+    },
+    {
+      "path": "bs4.element.CData.previous_sibling",
+      "kind": "property",
+      "dispname": "previous_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.CData.previous_sibling"
+    },
+    {
+      "path": "bs4.element.CharsetMetaAttributeValue",
+      "kind": "class",
+      "dispname": "CharsetMetaAttributeValue",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.CharsetMetaAttributeValue"
+    },
+    {
+      "path": "bs4.element.CharsetMetaAttributeValue.substitute_encoding",
+      "kind": "method",
+      "dispname": "substitute_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.CharsetMetaAttributeValue.substitute_encoding"
+    },
+    {
+      "path": "bs4.element.Comment",
+      "kind": "class",
+      "dispname": "Comment",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Comment"
+    },
+    {
+      "path": "bs4.element.Comment.PREFIX",
+      "kind": "property",
+      "dispname": "PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Comment.PREFIX"
+    },
+    {
+      "path": "bs4.element.Comment.SUFFIX",
+      "kind": "property",
+      "dispname": "SUFFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Comment.SUFFIX"
+    },
+    {
+      "path": "bs4.element.Comment.next_element",
+      "kind": "property",
+      "dispname": "next_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Comment.next_element"
+    },
+    {
+      "path": "bs4.element.Comment.next_sibling",
+      "kind": "property",
+      "dispname": "next_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Comment.next_sibling"
+    },
+    {
+      "path": "bs4.element.Comment.parent",
+      "kind": "property",
+      "dispname": "parent",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Comment.parent"
+    },
+    {
+      "path": "bs4.element.Comment.previous_element",
+      "kind": "property",
+      "dispname": "previous_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Comment.previous_element"
+    },
+    {
+      "path": "bs4.element.Comment.previous_sibling",
+      "kind": "property",
+      "dispname": "previous_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Comment.previous_sibling"
+    },
+    {
+      "path": "bs4.element.ContentMetaAttributeValue",
+      "kind": "class",
+      "dispname": "ContentMetaAttributeValue",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.ContentMetaAttributeValue"
+    },
+    {
+      "path": "bs4.element.ContentMetaAttributeValue.CHARSET_RE",
+      "kind": "property",
+      "dispname": "CHARSET_RE",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.ContentMetaAttributeValue.CHARSET_RE"
+    },
+    {
+      "path": "bs4.element.ContentMetaAttributeValue.substitute_encoding",
+      "kind": "method",
+      "dispname": "substitute_encoding",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.ContentMetaAttributeValue.substitute_encoding"
+    },
+    {
+      "path": "bs4.element.DEFAULT_OUTPUT_ENCODING",
+      "kind": "constant",
+      "dispname": "DEFAULT_OUTPUT_ENCODING",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.DEFAULT_OUTPUT_ENCODING"
+    },
+    {
+      "path": "bs4.element.Declaration",
+      "kind": "class",
+      "dispname": "Declaration",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Declaration"
+    },
+    {
+      "path": "bs4.element.Declaration.PREFIX",
+      "kind": "property",
+      "dispname": "PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Declaration.PREFIX"
+    },
+    {
+      "path": "bs4.element.Declaration.SUFFIX",
+      "kind": "property",
+      "dispname": "SUFFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Declaration.SUFFIX"
+    },
+    {
+      "path": "bs4.element.Declaration.next_element",
+      "kind": "property",
+      "dispname": "next_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Declaration.next_element"
+    },
+    {
+      "path": "bs4.element.Declaration.next_sibling",
+      "kind": "property",
+      "dispname": "next_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Declaration.next_sibling"
+    },
+    {
+      "path": "bs4.element.Declaration.parent",
+      "kind": "property",
+      "dispname": "parent",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Declaration.parent"
+    },
+    {
+      "path": "bs4.element.Declaration.previous_element",
+      "kind": "property",
+      "dispname": "previous_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Declaration.previous_element"
+    },
+    {
+      "path": "bs4.element.Declaration.previous_sibling",
+      "kind": "property",
+      "dispname": "previous_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Declaration.previous_sibling"
+    },
+    {
+      "path": "bs4.element.Doctype",
+      "kind": "class",
+      "dispname": "Doctype",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Doctype"
+    },
+    {
+      "path": "bs4.element.Doctype.PREFIX",
+      "kind": "property",
+      "dispname": "PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Doctype.PREFIX"
+    },
+    {
+      "path": "bs4.element.Doctype.SUFFIX",
+      "kind": "property",
+      "dispname": "SUFFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Doctype.SUFFIX"
+    },
+    {
+      "path": "bs4.element.Doctype.for_name_and_ids",
+      "kind": "method",
+      "dispname": "for_name_and_ids",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Doctype.for_name_and_ids"
+    },
+    {
+      "path": "bs4.element.Doctype.next_element",
+      "kind": "property",
+      "dispname": "next_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Doctype.next_element"
+    },
+    {
+      "path": "bs4.element.Doctype.next_sibling",
+      "kind": "property",
+      "dispname": "next_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Doctype.next_sibling"
+    },
+    {
+      "path": "bs4.element.Doctype.parent",
+      "kind": "property",
+      "dispname": "parent",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Doctype.parent"
+    },
+    {
+      "path": "bs4.element.Doctype.previous_element",
+      "kind": "property",
+      "dispname": "previous_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Doctype.previous_element"
+    },
+    {
+      "path": "bs4.element.Doctype.previous_sibling",
+      "kind": "property",
+      "dispname": "previous_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Doctype.previous_sibling"
+    },
+    {
+      "path": "bs4.element.HTMLAttributeDict",
+      "kind": "class",
+      "dispname": "HTMLAttributeDict",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.HTMLAttributeDict"
+    },
+    {
+      "path": "bs4.element.NamespacedAttribute",
+      "kind": "class",
+      "dispname": "NamespacedAttribute",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.NamespacedAttribute"
+    },
+    {
+      "path": "bs4.element.NamespacedAttribute.name",
+      "kind": "property",
+      "dispname": "name",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.NamespacedAttribute.name"
+    },
+    {
+      "path": "bs4.element.NamespacedAttribute.namespace",
+      "kind": "property",
+      "dispname": "namespace",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.NamespacedAttribute.namespace"
+    },
+    {
+      "path": "bs4.element.NamespacedAttribute.prefix",
+      "kind": "property",
+      "dispname": "prefix",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.NamespacedAttribute.prefix"
+    },
+    {
+      "path": "bs4.element.NavigableString",
+      "kind": "class",
+      "dispname": "NavigableString",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.NavigableString"
+    },
+    {
+      "path": "bs4.element.NavigableString.PREFIX",
+      "kind": "property",
+      "dispname": "PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.NavigableString.PREFIX"
+    },
+    {
+      "path": "bs4.element.NavigableString.SUFFIX",
+      "kind": "property",
+      "dispname": "SUFFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.NavigableString.SUFFIX"
+    },
+    {
+      "path": "bs4.element.NavigableString.output_ready",
+      "kind": "method",
+      "dispname": "output_ready",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.NavigableString.output_ready"
+    },
+    {
+      "path": "bs4.element.NavigableString.strings",
+      "kind": "property",
+      "dispname": "strings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.NavigableString.strings"
+    },
+    {
+      "path": "bs4.element.PYTHON_SPECIFIC_ENCODINGS",
+      "kind": "constant",
+      "dispname": "PYTHON_SPECIFIC_ENCODINGS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PYTHON_SPECIFIC_ENCODINGS"
+    },
+    {
+      "path": "bs4.element.PageElement",
+      "kind": "class",
+      "dispname": "PageElement",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement"
+    },
+    {
+      "path": "bs4.element.PageElement.decompose",
+      "kind": "method",
+      "dispname": "decompose",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.decompose"
+    },
+    {
+      "path": "bs4.element.PageElement.decomposed",
+      "kind": "property",
+      "dispname": "decomposed",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.decomposed"
+    },
+    {
+      "path": "bs4.element.PageElement.extract",
+      "kind": "method",
+      "dispname": "extract",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.extract"
+    },
+    {
+      "path": "bs4.element.PageElement.find_all_next",
+      "kind": "method",
+      "dispname": "find_all_next",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.find_all_next"
+    },
+    {
+      "path": "bs4.element.PageElement.find_all_previous",
+      "kind": "method",
+      "dispname": "find_all_previous",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.find_all_previous"
+    },
+    {
+      "path": "bs4.element.PageElement.find_next",
+      "kind": "method",
+      "dispname": "find_next",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.find_next"
+    },
+    {
+      "path": "bs4.element.PageElement.find_next_sibling",
+      "kind": "method",
+      "dispname": "find_next_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.find_next_sibling"
+    },
+    {
+      "path": "bs4.element.PageElement.find_next_siblings",
+      "kind": "method",
+      "dispname": "find_next_siblings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.find_next_siblings"
+    },
+    {
+      "path": "bs4.element.PageElement.find_parent",
+      "kind": "method",
+      "dispname": "find_parent",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.find_parent"
+    },
+    {
+      "path": "bs4.element.PageElement.find_parents",
+      "kind": "method",
+      "dispname": "find_parents",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.find_parents"
+    },
+    {
+      "path": "bs4.element.PageElement.find_previous",
+      "kind": "method",
+      "dispname": "find_previous",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.find_previous"
+    },
+    {
+      "path": "bs4.element.PageElement.find_previous_sibling",
+      "kind": "method",
+      "dispname": "find_previous_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.find_previous_sibling"
+    },
+    {
+      "path": "bs4.element.PageElement.find_previous_siblings",
+      "kind": "method",
+      "dispname": "find_previous_siblings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.find_previous_siblings"
+    },
+    {
+      "path": "bs4.element.PageElement.format_string",
+      "kind": "method",
+      "dispname": "format_string",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.format_string"
+    },
+    {
+      "path": "bs4.element.PageElement.formatter_for_name",
+      "kind": "method",
+      "dispname": "formatter_for_name",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.formatter_for_name"
+    },
+    {
+      "path": "bs4.element.PageElement.getText",
+      "kind": "method",
+      "dispname": "getText",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.getText"
+    },
+    {
+      "path": "bs4.element.PageElement.get_text",
+      "kind": "method",
+      "dispname": "get_text",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.get_text"
+    },
+    {
+      "path": "bs4.element.PageElement.hidden",
+      "kind": "property",
+      "dispname": "hidden",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.hidden"
+    },
+    {
+      "path": "bs4.element.PageElement.insert_after",
+      "kind": "method",
+      "dispname": "insert_after",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.insert_after"
+    },
+    {
+      "path": "bs4.element.PageElement.insert_before",
+      "kind": "method",
+      "dispname": "insert_before",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.insert_before"
+    },
+    {
+      "path": "bs4.element.PageElement.known_xml",
+      "kind": "property",
+      "dispname": "known_xml",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.known_xml"
+    },
+    {
+      "path": "bs4.element.PageElement.new_string",
+      "kind": "method",
+      "dispname": "new_string",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.new_string"
+    },
+    {
+      "path": "bs4.element.PageElement.new_tag",
+      "kind": "method",
+      "dispname": "new_tag",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.new_tag"
+    },
+    {
+      "path": "bs4.element.PageElement.next",
+      "kind": "property",
+      "dispname": "next",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.next"
+    },
+    {
+      "path": "bs4.element.PageElement.next_element",
+      "kind": "property",
+      "dispname": "next_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.next_element"
+    },
+    {
+      "path": "bs4.element.PageElement.next_elements",
+      "kind": "property",
+      "dispname": "next_elements",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.next_elements"
+    },
+    {
+      "path": "bs4.element.PageElement.next_sibling",
+      "kind": "property",
+      "dispname": "next_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.next_sibling"
+    },
+    {
+      "path": "bs4.element.PageElement.next_siblings",
+      "kind": "property",
+      "dispname": "next_siblings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.next_siblings"
+    },
+    {
+      "path": "bs4.element.PageElement.parent",
+      "kind": "property",
+      "dispname": "parent",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.parent"
+    },
+    {
+      "path": "bs4.element.PageElement.parents",
+      "kind": "property",
+      "dispname": "parents",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.parents"
+    },
+    {
+      "path": "bs4.element.PageElement.previous",
+      "kind": "property",
+      "dispname": "previous",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.previous"
+    },
+    {
+      "path": "bs4.element.PageElement.previous_element",
+      "kind": "property",
+      "dispname": "previous_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.previous_element"
+    },
+    {
+      "path": "bs4.element.PageElement.previous_elements",
+      "kind": "property",
+      "dispname": "previous_elements",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.previous_elements"
+    },
+    {
+      "path": "bs4.element.PageElement.previous_sibling",
+      "kind": "property",
+      "dispname": "previous_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.previous_sibling"
+    },
+    {
+      "path": "bs4.element.PageElement.previous_siblings",
+      "kind": "property",
+      "dispname": "previous_siblings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.previous_siblings"
+    },
+    {
+      "path": "bs4.element.PageElement.replace_with",
+      "kind": "method",
+      "dispname": "replace_with",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.replace_with"
+    },
+    {
+      "path": "bs4.element.PageElement.self_and_next_elements",
+      "kind": "property",
+      "dispname": "self_and_next_elements",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.self_and_next_elements"
+    },
+    {
+      "path": "bs4.element.PageElement.self_and_next_siblings",
+      "kind": "property",
+      "dispname": "self_and_next_siblings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.self_and_next_siblings"
+    },
+    {
+      "path": "bs4.element.PageElement.self_and_parents",
+      "kind": "property",
+      "dispname": "self_and_parents",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.self_and_parents"
+    },
+    {
+      "path": "bs4.element.PageElement.self_and_previous_elements",
+      "kind": "property",
+      "dispname": "self_and_previous_elements",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.self_and_previous_elements"
+    },
+    {
+      "path": "bs4.element.PageElement.self_and_previous_siblings",
+      "kind": "property",
+      "dispname": "self_and_previous_siblings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.self_and_previous_siblings"
+    },
+    {
+      "path": "bs4.element.PageElement.setup",
+      "kind": "method",
+      "dispname": "setup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.setup"
+    },
+    {
+      "path": "bs4.element.PageElement.stripped_strings",
+      "kind": "property",
+      "dispname": "stripped_strings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.stripped_strings"
+    },
+    {
+      "path": "bs4.element.PageElement.text",
+      "kind": "property",
+      "dispname": "text",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.text"
+    },
+    {
+      "path": "bs4.element.PageElement.wrap",
+      "kind": "method",
+      "dispname": "wrap",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PageElement.wrap"
+    },
+    {
+      "path": "bs4.element.PreformattedString",
+      "kind": "class",
+      "dispname": "PreformattedString",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PreformattedString"
+    },
+    {
+      "path": "bs4.element.PreformattedString.PREFIX",
+      "kind": "property",
+      "dispname": "PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PreformattedString.PREFIX"
+    },
+    {
+      "path": "bs4.element.PreformattedString.SUFFIX",
+      "kind": "property",
+      "dispname": "SUFFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PreformattedString.SUFFIX"
+    },
+    {
+      "path": "bs4.element.PreformattedString.output_ready",
+      "kind": "method",
+      "dispname": "output_ready",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.PreformattedString.output_ready"
+    },
+    {
+      "path": "bs4.element.ProcessingInstruction",
+      "kind": "class",
+      "dispname": "ProcessingInstruction",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.ProcessingInstruction"
+    },
+    {
+      "path": "bs4.element.ProcessingInstruction.PREFIX",
+      "kind": "property",
+      "dispname": "PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.ProcessingInstruction.PREFIX"
+    },
+    {
+      "path": "bs4.element.ProcessingInstruction.SUFFIX",
+      "kind": "property",
+      "dispname": "SUFFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.ProcessingInstruction.SUFFIX"
+    },
+    {
+      "path": "bs4.element.ProcessingInstruction.next_element",
+      "kind": "property",
+      "dispname": "next_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.ProcessingInstruction.next_element"
+    },
+    {
+      "path": "bs4.element.ProcessingInstruction.next_sibling",
+      "kind": "property",
+      "dispname": "next_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.ProcessingInstruction.next_sibling"
+    },
+    {
+      "path": "bs4.element.ProcessingInstruction.parent",
+      "kind": "property",
+      "dispname": "parent",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.ProcessingInstruction.parent"
+    },
+    {
+      "path": "bs4.element.ProcessingInstruction.previous_element",
+      "kind": "property",
+      "dispname": "previous_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.ProcessingInstruction.previous_element"
+    },
+    {
+      "path": "bs4.element.ProcessingInstruction.previous_sibling",
+      "kind": "property",
+      "dispname": "previous_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.ProcessingInstruction.previous_sibling"
+    },
+    {
+      "path": "bs4.element.ResultSet",
+      "kind": "class",
+      "dispname": "ResultSet",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.ResultSet"
+    },
+    {
+      "path": "bs4.element.ResultSet.source",
+      "kind": "property",
+      "dispname": "source",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.ResultSet.source"
+    },
+    {
+      "path": "bs4.element.RubyParenthesisString",
+      "kind": "class",
+      "dispname": "RubyParenthesisString",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.RubyParenthesisString"
+    },
+    {
+      "path": "bs4.element.RubyTextString",
+      "kind": "class",
+      "dispname": "RubyTextString",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.RubyTextString"
+    },
+    {
+      "path": "bs4.element.Script",
+      "kind": "class",
+      "dispname": "Script",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Script"
+    },
+    {
+      "path": "bs4.element.Stylesheet",
+      "kind": "class",
+      "dispname": "Stylesheet",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Stylesheet"
+    },
+    {
+      "path": "bs4.element.Tag",
+      "kind": "class",
+      "dispname": "Tag",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag"
+    },
+    {
+      "path": "bs4.element.Tag.append",
+      "kind": "method",
+      "dispname": "append",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.append"
+    },
+    {
+      "path": "bs4.element.Tag.attrs",
+      "kind": "property",
+      "dispname": "attrs",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.attrs"
+    },
+    {
+      "path": "bs4.element.Tag.can_be_empty_element",
+      "kind": "property",
+      "dispname": "can_be_empty_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.can_be_empty_element"
+    },
+    {
+      "path": "bs4.element.Tag.cdata_list_attributes",
+      "kind": "property",
+      "dispname": "cdata_list_attributes",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.cdata_list_attributes"
+    },
+    {
+      "path": "bs4.element.Tag.children",
+      "kind": "property",
+      "dispname": "children",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.children"
+    },
+    {
+      "path": "bs4.element.Tag.clear",
+      "kind": "method",
+      "dispname": "clear",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.clear"
+    },
+    {
+      "path": "bs4.element.Tag.contents",
+      "kind": "property",
+      "dispname": "contents",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.contents"
+    },
+    {
+      "path": "bs4.element.Tag.copy_self",
+      "kind": "method",
+      "dispname": "copy_self",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.copy_self"
+    },
+    {
+      "path": "bs4.element.Tag.css",
+      "kind": "property",
+      "dispname": "css",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.css"
+    },
+    {
+      "path": "bs4.element.Tag.decode",
+      "kind": "method",
+      "dispname": "decode",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.decode"
+    },
+    {
+      "path": "bs4.element.Tag.decode_contents",
+      "kind": "method",
+      "dispname": "decode_contents",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.decode_contents"
+    },
+    {
+      "path": "bs4.element.Tag.descendants",
+      "kind": "property",
+      "dispname": "descendants",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.descendants"
+    },
+    {
+      "path": "bs4.element.Tag.encode",
+      "kind": "method",
+      "dispname": "encode",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.encode"
+    },
+    {
+      "path": "bs4.element.Tag.encode_contents",
+      "kind": "method",
+      "dispname": "encode_contents",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.encode_contents"
+    },
+    {
+      "path": "bs4.element.Tag.extend",
+      "kind": "method",
+      "dispname": "extend",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.extend"
+    },
+    {
+      "path": "bs4.element.Tag.find",
+      "kind": "method",
+      "dispname": "find",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.find"
+    },
+    {
+      "path": "bs4.element.Tag.find_all",
+      "kind": "method",
+      "dispname": "find_all",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.find_all"
+    },
+    {
+      "path": "bs4.element.Tag.get",
+      "kind": "method",
+      "dispname": "get",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.get"
+    },
+    {
+      "path": "bs4.element.Tag.get_attribute_list",
+      "kind": "method",
+      "dispname": "get_attribute_list",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.get_attribute_list"
+    },
+    {
+      "path": "bs4.element.Tag.has_attr",
+      "kind": "method",
+      "dispname": "has_attr",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.has_attr"
+    },
+    {
+      "path": "bs4.element.Tag.index",
+      "kind": "method",
+      "dispname": "index",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.index"
+    },
+    {
+      "path": "bs4.element.Tag.insert",
+      "kind": "method",
+      "dispname": "insert",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.insert"
+    },
+    {
+      "path": "bs4.element.Tag.interesting_string_types",
+      "kind": "property",
+      "dispname": "interesting_string_types",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.interesting_string_types"
+    },
+    {
+      "path": "bs4.element.Tag.isSelfClosing",
+      "kind": "method",
+      "dispname": "isSelfClosing",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.isSelfClosing"
+    },
+    {
+      "path": "bs4.element.Tag.is_empty_element",
+      "kind": "property",
+      "dispname": "is_empty_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.is_empty_element"
+    },
+    {
+      "path": "bs4.element.Tag.name",
+      "kind": "property",
+      "dispname": "name",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.name"
+    },
+    {
+      "path": "bs4.element.Tag.namespace",
+      "kind": "property",
+      "dispname": "namespace",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.namespace"
+    },
+    {
+      "path": "bs4.element.Tag.next_element",
+      "kind": "property",
+      "dispname": "next_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.next_element"
+    },
+    {
+      "path": "bs4.element.Tag.next_sibling",
+      "kind": "property",
+      "dispname": "next_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.next_sibling"
+    },
+    {
+      "path": "bs4.element.Tag.parent",
+      "kind": "property",
+      "dispname": "parent",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.parent"
+    },
+    {
+      "path": "bs4.element.Tag.parser_class",
+      "kind": "property",
+      "dispname": "parser_class",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.parser_class"
+    },
+    {
+      "path": "bs4.element.Tag.prefix",
+      "kind": "property",
+      "dispname": "prefix",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.prefix"
+    },
+    {
+      "path": "bs4.element.Tag.preserve_whitespace_tags",
+      "kind": "property",
+      "dispname": "preserve_whitespace_tags",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.preserve_whitespace_tags"
+    },
+    {
+      "path": "bs4.element.Tag.prettify",
+      "kind": "method",
+      "dispname": "prettify",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.prettify"
+    },
+    {
+      "path": "bs4.element.Tag.previous_element",
+      "kind": "property",
+      "dispname": "previous_element",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.previous_element"
+    },
+    {
+      "path": "bs4.element.Tag.previous_sibling",
+      "kind": "property",
+      "dispname": "previous_sibling",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.previous_sibling"
+    },
+    {
+      "path": "bs4.element.Tag.replaceWithChildren",
+      "kind": "method",
+      "dispname": "replaceWithChildren",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.replaceWithChildren"
+    },
+    {
+      "path": "bs4.element.Tag.replace_with_children",
+      "kind": "method",
+      "dispname": "replace_with_children",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.replace_with_children"
+    },
+    {
+      "path": "bs4.element.Tag.select",
+      "kind": "method",
+      "dispname": "select",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.select"
+    },
+    {
+      "path": "bs4.element.Tag.select_one",
+      "kind": "method",
+      "dispname": "select_one",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.select_one"
+    },
+    {
+      "path": "bs4.element.Tag.self_and_descendants",
+      "kind": "property",
+      "dispname": "self_and_descendants",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.self_and_descendants"
+    },
+    {
+      "path": "bs4.element.Tag.smooth",
+      "kind": "method",
+      "dispname": "smooth",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.smooth"
+    },
+    {
+      "path": "bs4.element.Tag.sourceline",
+      "kind": "property",
+      "dispname": "sourceline",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.sourceline"
+    },
+    {
+      "path": "bs4.element.Tag.sourcepos",
+      "kind": "property",
+      "dispname": "sourcepos",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.sourcepos"
+    },
+    {
+      "path": "bs4.element.Tag.string",
+      "kind": "property",
+      "dispname": "string",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.string"
+    },
+    {
+      "path": "bs4.element.Tag.strings",
+      "kind": "property",
+      "dispname": "strings",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.strings"
+    },
+    {
+      "path": "bs4.element.Tag.unwrap",
+      "kind": "method",
+      "dispname": "unwrap",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.Tag.unwrap"
+    },
+    {
+      "path": "bs4.element.TemplateString",
+      "kind": "class",
+      "dispname": "TemplateString",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.TemplateString"
+    },
+    {
+      "path": "bs4.element.XMLAttributeDict",
+      "kind": "class",
+      "dispname": "XMLAttributeDict",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.XMLAttributeDict"
+    },
+    {
+      "path": "bs4.element.XMLProcessingInstruction",
+      "kind": "class",
+      "dispname": "XMLProcessingInstruction",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.XMLProcessingInstruction"
+    },
+    {
+      "path": "bs4.element.XMLProcessingInstruction.PREFIX",
+      "kind": "property",
+      "dispname": "PREFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.XMLProcessingInstruction.PREFIX"
+    },
+    {
+      "path": "bs4.element.XMLProcessingInstruction.SUFFIX",
+      "kind": "property",
+      "dispname": "SUFFIX",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.XMLProcessingInstruction.SUFFIX"
+    },
+    {
+      "path": "bs4.element.nonwhitespace_re",
+      "kind": "constant",
+      "dispname": "nonwhitespace_re",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.element.nonwhitespace_re"
+    },
+    {
+      "path": "bs4.exceptions.FeatureNotFound",
+      "kind": "class",
+      "dispname": "FeatureNotFound",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.FeatureNotFound"
+    },
+    {
+      "path": "bs4.exceptions.ParserRejectedMarkup",
+      "kind": "class",
+      "dispname": "ParserRejectedMarkup",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.builder.html#bs4.builder.ParserRejectedMarkup"
+    },
+    {
+      "path": "bs4.exceptions.StopParsing",
+      "kind": "class",
+      "dispname": "StopParsing",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.StopParsing"
+    },
+    {
+      "path": "bs4.filter",
+      "kind": "module",
+      "dispname": "filter",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#module-bs4.filter"
+    },
+    {
+      "path": "bs4.filter.AttributeValueMatchRule",
+      "kind": "class",
+      "dispname": "AttributeValueMatchRule",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.AttributeValueMatchRule"
+    },
+    {
+      "path": "bs4.filter.AttributeValueMatchRule.function",
+      "kind": "property",
+      "dispname": "function",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.AttributeValueMatchRule.function"
+    },
+    {
+      "path": "bs4.filter.ElementFilter",
+      "kind": "class",
+      "dispname": "ElementFilter",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.ElementFilter"
+    },
+    {
+      "path": "bs4.filter.ElementFilter.allow_string_creation",
+      "kind": "method",
+      "dispname": "allow_string_creation",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.ElementFilter.allow_string_creation"
+    },
+    {
+      "path": "bs4.filter.ElementFilter.allow_tag_creation",
+      "kind": "method",
+      "dispname": "allow_tag_creation",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.ElementFilter.allow_tag_creation"
+    },
+    {
+      "path": "bs4.filter.ElementFilter.excludes_everything",
+      "kind": "property",
+      "dispname": "excludes_everything",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.ElementFilter.excludes_everything"
+    },
+    {
+      "path": "bs4.filter.ElementFilter.filter",
+      "kind": "method",
+      "dispname": "filter",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.ElementFilter.filter"
+    },
+    {
+      "path": "bs4.filter.ElementFilter.find",
+      "kind": "method",
+      "dispname": "find",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.ElementFilter.find"
+    },
+    {
+      "path": "bs4.filter.ElementFilter.find_all",
+      "kind": "method",
+      "dispname": "find_all",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.ElementFilter.find_all"
+    },
+    {
+      "path": "bs4.filter.ElementFilter.includes_everything",
+      "kind": "property",
+      "dispname": "includes_everything",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.ElementFilter.includes_everything"
+    },
+    {
+      "path": "bs4.filter.ElementFilter.match",
+      "kind": "method",
+      "dispname": "match",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.ElementFilter.match"
+    },
+    {
+      "path": "bs4.filter.ElementFilter.match_function",
+      "kind": "property",
+      "dispname": "match_function",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.ElementFilter.match_function"
+    },
+    {
+      "path": "bs4.filter.MatchRule",
+      "kind": "class",
+      "dispname": "MatchRule",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.MatchRule"
+    },
+    {
+      "path": "bs4.filter.MatchRule.exclude_everything",
+      "kind": "property",
+      "dispname": "exclude_everything",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.MatchRule.exclude_everything"
+    },
+    {
+      "path": "bs4.filter.MatchRule.matches_string",
+      "kind": "method",
+      "dispname": "matches_string",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.MatchRule.matches_string"
+    },
+    {
+      "path": "bs4.filter.MatchRule.pattern",
+      "kind": "property",
+      "dispname": "pattern",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.MatchRule.pattern"
+    },
+    {
+      "path": "bs4.filter.MatchRule.present",
+      "kind": "property",
+      "dispname": "present",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.MatchRule.present"
+    },
+    {
+      "path": "bs4.filter.MatchRule.string",
+      "kind": "property",
+      "dispname": "string",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.MatchRule.string"
+    },
+    {
+      "path": "bs4.filter.SoupStrainer",
+      "kind": "class",
+      "dispname": "SoupStrainer",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.SoupStrainer"
+    },
+    {
+      "path": "bs4.filter.SoupStrainer.allow_string_creation",
+      "kind": "method",
+      "dispname": "allow_string_creation",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.SoupStrainer.allow_string_creation"
+    },
+    {
+      "path": "bs4.filter.SoupStrainer.allow_tag_creation",
+      "kind": "method",
+      "dispname": "allow_tag_creation",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.SoupStrainer.allow_tag_creation"
+    },
+    {
+      "path": "bs4.filter.SoupStrainer.attribute_rules",
+      "kind": "property",
+      "dispname": "attribute_rules",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.SoupStrainer.attribute_rules"
+    },
+    {
+      "path": "bs4.filter.SoupStrainer.excludes_everything",
+      "kind": "property",
+      "dispname": "excludes_everything",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.SoupStrainer.excludes_everything"
+    },
+    {
+      "path": "bs4.filter.SoupStrainer.includes_everything",
+      "kind": "property",
+      "dispname": "includes_everything",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.SoupStrainer.includes_everything"
+    },
+    {
+      "path": "bs4.filter.SoupStrainer.match",
+      "kind": "method",
+      "dispname": "match",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.SoupStrainer.match"
+    },
+    {
+      "path": "bs4.filter.SoupStrainer.matches_any_string_rule",
+      "kind": "method",
+      "dispname": "matches_any_string_rule",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.SoupStrainer.matches_any_string_rule"
+    },
+    {
+      "path": "bs4.filter.SoupStrainer.matches_tag",
+      "kind": "method",
+      "dispname": "matches_tag",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.SoupStrainer.matches_tag"
+    },
+    {
+      "path": "bs4.filter.SoupStrainer.name_rules",
+      "kind": "property",
+      "dispname": "name_rules",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.SoupStrainer.name_rules"
+    },
+    {
+      "path": "bs4.filter.SoupStrainer.search_tag",
+      "kind": "method",
+      "dispname": "search_tag",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.SoupStrainer.search_tag"
+    },
+    {
+      "path": "bs4.filter.SoupStrainer.string_rules",
+      "kind": "property",
+      "dispname": "string_rules",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.SoupStrainer.string_rules"
+    },
+    {
+      "path": "bs4.filter.StringMatchRule",
+      "kind": "class",
+      "dispname": "StringMatchRule",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.StringMatchRule"
+    },
+    {
+      "path": "bs4.filter.StringMatchRule.function",
+      "kind": "property",
+      "dispname": "function",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.StringMatchRule.function"
+    },
+    {
+      "path": "bs4.filter.TagNameMatchRule",
+      "kind": "class",
+      "dispname": "TagNameMatchRule",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.TagNameMatchRule"
+    },
+    {
+      "path": "bs4.filter.TagNameMatchRule.function",
+      "kind": "property",
+      "dispname": "function",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.TagNameMatchRule.function"
+    },
+    {
+      "path": "bs4.filter.TagNameMatchRule.matches_tag",
+      "kind": "method",
+      "dispname": "matches_tag",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.filter.TagNameMatchRule.matches_tag"
+    },
+    {
+      "path": "bs4.formatter",
+      "kind": "module",
+      "dispname": "formatter",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#module-bs4.formatter"
+    },
+    {
+      "path": "bs4.formatter.Formatter",
+      "kind": "class",
+      "dispname": "Formatter",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.formatter.Formatter"
+    },
+    {
+      "path": "bs4.formatter.Formatter.HTML",
+      "kind": "property",
+      "dispname": "HTML",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.formatter.Formatter.HTML"
+    },
+    {
+      "path": "bs4.formatter.Formatter.HTML_DEFAULTS",
+      "kind": "property",
+      "dispname": "HTML_DEFAULTS",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.formatter.Formatter.HTML_DEFAULTS"
+    },
+    {
+      "path": "bs4.formatter.Formatter.XML",
+      "kind": "property",
+      "dispname": "XML",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.formatter.Formatter.XML"
+    },
+    {
+      "path": "bs4.formatter.Formatter.attribute_value",
+      "kind": "method",
+      "dispname": "attribute_value",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.formatter.Formatter.attribute_value"
+    },
+    {
+      "path": "bs4.formatter.Formatter.attributes",
+      "kind": "method",
+      "dispname": "attributes",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.formatter.Formatter.attributes"
+    },
+    {
+      "path": "bs4.formatter.Formatter.empty_attributes_are_booleans",
+      "kind": "property",
+      "dispname": "empty_attributes_are_booleans",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.formatter.Formatter.empty_attributes_are_booleans"
+    },
+    {
+      "path": "bs4.formatter.Formatter.substitute",
+      "kind": "method",
+      "dispname": "substitute",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.formatter.Formatter.substitute"
+    },
+    {
+      "path": "bs4.formatter.HTMLFormatter",
+      "kind": "class",
+      "dispname": "HTMLFormatter",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.formatter.HTMLFormatter"
+    },
+    {
+      "path": "bs4.formatter.HTMLFormatter.REGISTRY",
+      "kind": "property",
+      "dispname": "REGISTRY",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.formatter.HTMLFormatter.REGISTRY"
+    },
+    {
+      "path": "bs4.formatter.XMLFormatter",
+      "kind": "class",
+      "dispname": "XMLFormatter",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.formatter.XMLFormatter"
+    },
+    {
+      "path": "bs4.formatter.XMLFormatter.REGISTRY",
+      "kind": "property",
+      "dispname": "REGISTRY",
+      "docUri": "https://www.crummy.com/software/BeautifulSoup/bs4/doc/api/bs4.html#bs4.formatter.XMLFormatter.REGISTRY"
+    }
+  ]
+}

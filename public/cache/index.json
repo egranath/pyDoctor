@@ -1,0 +1,1130 @@
+{
+  "packages": [
+    {
+      "name": "_thread",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "abc",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "aiohttp",
+      "file": "aiohttp.json",
+      "generatedAt": "2026-09-18T11:29:05.704Z",
+      "sharded": true
+    },
+    {
+      "name": "annotationlib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "argparse",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "array",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "ast",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "asyncio",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "atexit",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "attrs",
+      "file": "attrs.json",
+      "generatedAt": "2026-09-18T11:29:05.778Z"
+    },
+    {
+      "name": "base64",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "bdb",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "binascii",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "bisect",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "bokeh",
+      "file": "bokeh.json",
+      "generatedAt": "2026-09-18T11:29:06.695Z",
+      "sharded": true
+    },
+    {
+      "name": "bs4",
+      "file": "bs4.json",
+      "generatedAt": "2026-09-18T22:37:05.511Z",
+      "aliases": [
+        "BeautifulSoup",
+        "beautifulsoup4"
+      ]
+    },
+    {
+      "name": "builtins",
+      "file": "builtins.json",
+      "loadByDefault": true,
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "bz2",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "calendar",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "click",
+      "file": "click.json",
+      "generatedAt": "2026-09-18T11:29:05.086Z"
+    },
+    {
+      "name": "cmath",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "cmd",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "code",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "codecs",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "codeop",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "collections",
+      "file": "stdlib.json",
+      "loadByDefault": true,
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "colorsys",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "compileall",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "compression",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "concurrent",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "configparser",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "contextlib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "contextvars",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "copy",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "copyreg",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "csv",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "ctypes",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "curses",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "dask",
+      "file": "dask.json",
+      "generatedAt": "2026-09-18T11:29:05.637Z"
+    },
+    {
+      "name": "dataclasses",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "datetime",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "dateutil",
+      "file": "dateutil.json",
+      "generatedAt": "2026-09-18T11:29:06.939Z"
+    },
+    {
+      "name": "dbm",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "decimal",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "demo",
+      "file": "demo.json",
+      "generatedAt": "2026-09-18T00:00:00.000Z"
+    },
+    {
+      "name": "difflib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "dis",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "django",
+      "file": "django.json",
+      "generatedAt": "2026-09-18T11:29:04.667Z"
+    },
+    {
+      "name": "doctest",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "email",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "encodings",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "ensurepip",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "enum",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "errno",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "fastapi",
+      "file": "fastapi.json",
+      "generatedAt": "2026-09-18T11:29:06.862Z",
+      "sharded": true
+    },
+    {
+      "name": "faulthandler",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "fcntl",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "filecmp",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "fileinput",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "flask",
+      "file": "flask.json",
+      "generatedAt": "2026-09-18T11:29:04.476Z"
+    },
+    {
+      "name": "fnmatch",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "fractions",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "ftplib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "functools",
+      "file": "stdlib.json",
+      "loadByDefault": true,
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "gc",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "getopt",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "getpass",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "gettext",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "glob",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "graphlib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "grp",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "gzip",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "hashlib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "heapq",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "hmac",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "html",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "http",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "imaplib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "importlib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "inspect",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "io",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "ipaddress",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "IPython",
+      "file": "IPython.json",
+      "generatedAt": "2026-09-18T11:29:05.441Z",
+      "sharded": true
+    },
+    {
+      "name": "itertools",
+      "file": "stdlib.json",
+      "loadByDefault": true,
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "jax",
+      "file": "jax.json",
+      "generatedAt": "2026-09-18T11:29:06.469Z"
+    },
+    {
+      "name": "jinja2",
+      "file": "jinja2.json",
+      "generatedAt": "2026-09-18T11:29:06.313Z",
+      "sharded": true
+    },
+    {
+      "name": "joblib",
+      "file": "joblib.json",
+      "generatedAt": "2026-09-18T11:29:06.391Z"
+    },
+    {
+      "name": "json",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "keyword",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "linecache",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "locale",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "logging",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "lzma",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "mailbox",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "marshal",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "math",
+      "file": "stdlib.json",
+      "loadByDefault": true,
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "matplotlib",
+      "file": "matplotlib.json",
+      "generatedAt": "2026-09-18T08:23:04.850Z",
+      "sharded": true
+    },
+    {
+      "name": "mimetypes",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "mmap",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "modulefinder",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "msvcrt",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "multiprocessing",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "netrc",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "networkx",
+      "file": "networkx.json",
+      "generatedAt": "2026-09-18T08:23:05.083Z",
+      "sharded": true
+    },
+    {
+      "name": "numba",
+      "file": "numba.json",
+      "generatedAt": "2026-09-18T11:29:03.851Z",
+      "sharded": true
+    },
+    {
+      "name": "numbers",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "numpy",
+      "file": "numpy.json",
+      "loadByDefault": true,
+      "generatedAt": "2026-09-18T08:23:04.155Z",
+      "sharded": true
+    },
+    {
+      "name": "operator",
+      "file": "stdlib.json",
+      "loadByDefault": true,
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "optparse",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "os",
+      "file": "stdlib.json",
+      "loadByDefault": true,
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "packaging",
+      "file": "packaging.json",
+      "generatedAt": "2026-09-18T11:29:07.006Z"
+    },
+    {
+      "name": "pandas",
+      "file": "pandas.json",
+      "generatedAt": "2026-09-18T08:23:04.707Z",
+      "sharded": true
+    },
+    {
+      "name": "pathlib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "pdb",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "pickle",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "pickletools",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "PIL",
+      "file": "PIL.json",
+      "generatedAt": "2026-09-18T11:29:04.759Z",
+      "sharded": true,
+      "aliases": [
+        "Pillow",
+        "pillow"
+      ]
+    },
+    {
+      "name": "pkgutil",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "platform",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "plistlib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "poplib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "posix",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "pprint",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "profile",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "pstats",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "pty",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "pwd",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "py_compile",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "pyclbr",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "pydantic",
+      "file": "pydantic.json",
+      "generatedAt": "2026-09-18T11:29:04.395Z",
+      "sharded": true
+    },
+    {
+      "name": "pyperclip",
+      "file": "pyperclip.json",
+      "generatedAt": "2026-09-18T09:33:05.530498Z"
+    },
+    {
+      "name": "pytest",
+      "file": "pytest.json",
+      "generatedAt": "2026-09-18T11:29:05.017Z"
+    },
+    {
+      "name": "queue",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "quopri",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "random",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "re",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "readline",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "reprlib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "requests",
+      "file": "requests.json",
+      "generatedAt": "2026-09-18T08:23:05.684Z"
+    },
+    {
+      "name": "resource",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "rich",
+      "file": "rich.json",
+      "generatedAt": "2026-09-18T11:29:03.952Z",
+      "sharded": true
+    },
+    {
+      "name": "rlcompleter",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "runpy",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "sched",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "scipy",
+      "file": "scipy.json",
+      "generatedAt": "2026-09-18T08:23:05.586Z",
+      "sharded": true
+    },
+    {
+      "name": "seaborn",
+      "file": "seaborn.json",
+      "generatedAt": "2026-09-18T11:29:04.901Z"
+    },
+    {
+      "name": "secrets",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "select",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "selectors",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "shelve",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "shlex",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "shutil",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "signal",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "site",
+      "file": "stdlib.json",
+      "loadByDefault": true,
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "skimage",
+      "file": "skimage.json",
+      "generatedAt": "2026-09-18T11:29:06.237Z"
+    },
+    {
+      "name": "sklearn",
+      "file": "sklearn.json",
+      "generatedAt": "2026-09-18T08:23:05.871Z",
+      "sharded": true,
+      "aliases": [
+        "scikit-learn",
+        "scikit_learn"
+      ]
+    },
+    {
+      "name": "smtplib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "socket",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "socketserver",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "sqlalchemy",
+      "file": "sqlalchemy.json",
+      "generatedAt": "2026-09-18T11:29:05.336Z"
+    },
+    {
+      "name": "sqlite3",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "ssl",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "stat",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "statistics",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "statsmodels",
+      "file": "statsmodels.json",
+      "generatedAt": "2026-09-18T11:29:06.080Z"
+    },
+    {
+      "name": "string",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "stringprep",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "struct",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "subprocess",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "sympy",
+      "file": "sympy.json",
+      "loadByDefault": true,
+      "generatedAt": "2026-09-18T11:59:10.828Z",
+      "sharded": true
+    },
+    {
+      "name": "symtable",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "syntax",
+      "file": "syntax.json",
+      "loadByDefault": true,
+      "generatedAt": "2026-09-20T03:43:56.672Z"
+    },
+    {
+      "name": "sys",
+      "file": "stdlib.json",
+      "loadByDefault": true,
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "sysconfig",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "syslog",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "tabnanny",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "tarfile",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "tempfile",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "termios",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "test",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "textwrap",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "threading",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "time",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "timeit",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "tkinter",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "token",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "tokenize",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "tomllib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "torch",
+      "file": "torch.json",
+      "generatedAt": "2026-09-18T11:29:04.214Z"
+    },
+    {
+      "name": "tornado",
+      "file": "tornado.json",
+      "generatedAt": "2026-09-18T11:29:06.776Z",
+      "sharded": true
+    },
+    {
+      "name": "trace",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "traceback",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "tracemalloc",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "tty",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "turtle",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "types",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "typing",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "unicodedata",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "unittest",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "urllib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "uuid",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "venv",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "warnings",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "wave",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "weakref",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "webbrowser",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "winreg",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "winsound",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "wsgiref",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "xarray",
+      "file": "xarray.json",
+      "generatedAt": "2026-09-18T11:29:05.532Z"
+    },
+    {
+      "name": "xml",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "xmlrpc",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "zipapp",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "zipfile",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "zipimport",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "zlib",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    },
+    {
+      "name": "zoneinfo",
+      "file": "stdlib.json",
+      "generatedAt": "2026-09-18T08:23:03.915Z"
+    }
+  ]
+}
